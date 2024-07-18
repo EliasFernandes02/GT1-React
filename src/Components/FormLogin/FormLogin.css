@@ -1,0 +1,74 @@
+section{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    background-color: #c3c4f5;
+
+}
+#formularioLogin{
+    background-color: white;
+    height: 70vh;
+    width: 35vw;
+    border-radius: 5px;
+    margin-top: 7vh; 
+}
+#titles {
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+#titles p {
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 2vh;
+}
+#inputss{
+    margin-left: 2vw;
+    margin-top: 3vh;
+}
+#inputss label {
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+    display: block;
+}
+#inputss input {
+    width: 30vw;
+    height: 6vh;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #f8f8f8;
+    margin-bottom: 1vh;
+}
+#inputss input::placeholder {
+    padding-left: 5px;
+}
+
+#inputss a {
+    font-size: 12px;
+    color: rgb(82, 82, 82);
+}
+
+#acessar {
+    width: 100%;
+
+}
+#acessar button{
+    background-color:#c92071 ;
+    width: 90%;
+    height: 6vh;
+    margin-left: 2vw;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3vh;
+}
+#icons {
+    display: flex;
+    width: 50%;
+}
+#icons img {
+    width: 10vh;
+    height:3vh;
+}
